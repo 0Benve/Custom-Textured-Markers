@@ -4,7 +4,7 @@ lua54 'yes'
 
 
 author '0Benve'
-description 'Custom Textured Markers, benve'
+description 'Custom Textured Markers, benve https://github.com/0Benve'
 version '1.0.0'
 
 client_script {
